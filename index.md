@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Home 
 
 You can use the [editor on GitHub](https://github.com/seyong2/seyong2.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 

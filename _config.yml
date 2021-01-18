@@ -14,9 +14,9 @@ author: Seyong Ryoo
 
 navbar-links:
   About Me: "aboutme"
- # Resources:
-   # - Beautiful Jekyll: "https://beautifuljekyll.com"
-    #- Learn markdown: "https://www.markdowntutorial.com/"
+  Projects:
+    - Project Euler: "https://github.com/seyong2/Project_Euler"
+    - Kaggle: 
   Author's home: "https://seyong2.github.io/"
 
 # --- Logo --- #

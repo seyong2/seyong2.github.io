@@ -40,12 +40,12 @@ navbar-links:
 social-network-links:
   email: "seyongryoo@gmail.com"
 #  facebook: deanattali
-  github: "https://github.com/seyong2"
+  github: https://github.com/seyong2
 #  twitter: daattali
 #  patreon: DeanAttali
 #  youtube: c/daattali
 #  reddit: yourname
-  linkedin: "https://www.linkedin.com/in/seyong-ryoo-9987a7150/"
+  linkedin: https://www.linkedin.com/in/seyong-ryoo-9987a7150/
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78

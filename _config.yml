@@ -16,7 +16,7 @@ navbar-links:
   About Me: "aboutme"
   Projects:
     - Project Euler: "https://github.com/seyong2/Project_Euler"
-    - Kaggle: 
+    - Kaggle: "https://github.com/seyong2/Titanic-ML" 
 #  Author's home: "https://seyong2.github.io/"
 
 # --- Logo --- #

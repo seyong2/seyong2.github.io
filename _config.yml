@@ -17,7 +17,7 @@ navbar-links:
   Projects:
     - Project Euler: "https://github.com/seyong2/Project_Euler"
     - Kaggle: 
-  Author's home: "https://seyong2.github.io/"
+#  Author's home: "https://seyong2.github.io/"
 
 # --- Logo --- #
 
